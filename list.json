@@ -8,15 +8,15 @@
             "pgnUrl": "https://goatevents.github.io/pgn/london-1851.pgn",
             "profile":{
                 "imageUrl": "https://goatevents.github.io/images/england.png",
-                "subtext": 1851
+                "subText": "England, 1851"
             }
         },
         {
-            "name": "US Chess Congress",
+            "name": "American Chess Congress",
             "pgnUrl": "https://goatevents.github.io/pgn/uschesscongress-1857.pgn",
             "profile":{
                 "imageUrl": "https://goatevents.github.io/images/usa.webp",
-                "subtext": 1857
+                "subText": "New York, 1857"
             }
         }
     ]
