@@ -159,7 +159,7 @@
             "name": "DSB Congress, Mannheim",
             "pgnUrl": "https://goatevents.github.io/pgn/Mannheim1914.pgn",
             "profile":{
-                "imageUrl": "https://goatevents.github.io/images/Germany.pgn",
+                "imageUrl": "https://goatevents.github.io/images/Germany.png",
                 "subText": "1914, Alekhine"
             }
         },
@@ -239,7 +239,7 @@
             "name": "Tilburg chess tournament",
             "pgnUrl": "https://goatevents.github.io/pgn/Tilburg1977.pgn",
             "profile":{
-                "imageUrl": "https://goatevents.github.io/images/Netherlands",
+                "imageUrl": "https://goatevents.github.io/images/Netherlands.png",
                 "subText": "1977, Karpov"
             }
         },
