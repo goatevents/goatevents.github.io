@@ -4,11 +4,11 @@
     ],
     "list":[
         {
-            "name": "London Great Exhibition",
+            "name": "London great exhibition",
             "pgnUrl": "https://goatevents.github.io/pgn/london-1851.pgn",
             "profile":{
                 "imageUrl": "https://goatevents.github.io/images/england.png",
-                "subText": "England, 1851"
+                "subText": "1851, Anderssen"
             }
         },
         {
@@ -16,7 +16,239 @@
             "pgnUrl": "https://goatevents.github.io/pgn/uschesscongress-1857.pgn",
             "profile":{
                 "imageUrl": "https://goatevents.github.io/images/usa.webp",
-                "subText": "New York, 1857"
+                "subText": "1857, Morphy"
+            }
+        },
+        {
+            "name": "British world exhibition, London",
+            "pgnUrl": "https://goatevents.github.io/pgn/London1862.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/england.png",
+                "subText": "1862, Anderssen"
+            }
+        },
+        {
+            "name": "Paris World Fair",
+            "pgnUrl": "https://goatevents.github.io/pgn/Paris1867.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/France.gif",
+                "subText": "1867, Kolisch"
+            }
+        },
+        {
+            "name": "Baden-Baden Chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Baden1870.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Germany.png",
+                "subText": "1870, Anderssen"
+            }
+        },
+        {
+            "name": "Vienna world exhibition",
+            "pgnUrl": "https://goatevents.github.io/pgn/Vienna1873.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Austria.png",
+                "subText": "1873, Steinitz"
+            }
+        },
+        {
+            "name": "DSB Congress, Berlin",
+            "pgnUrl": "https://goatevents.github.io/pgn/Berlin1881.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Germany.png",
+                "subText": "1881, Blackburne"
+            }
+        },
+        {
+            "name": "Vienna chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Vienna1882.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Austria.png",
+                "subText": "1882, Steinitz, Winawer"
+            }
+        },
+        {
+            "name": "London chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/London1883.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/england.png",
+                "subText": "1883, Zukertort"
+            }
+        },
+        {
+            "name": "Hastings chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Hastings1895.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/england.png",
+                "subText": "1895, Pillsbury"
+            }
+        },
+        {
+            "name": "Nuremberg chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Nuremberg1896.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Germany.png",
+                "subText": "1896, Lasker"
+            }
+        },
+        {
+            "name": "Emperor Franz Joseph I accession memorial, Vienna",
+            "pgnUrl": "https://goatevents.github.io/pgn/Vienna1898.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Austria.png",
+                "subText": "1898, Tarrasch"
+            }
+        },
+        {
+            "name": "London chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/London1899.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/england.png",
+                "subText": "1899, Lasker"
+            }
+        },
+        {
+            "name": "Exposition Universelle, Paris",
+            "pgnUrl": "https://goatevents.github.io/pgn/Paris1900.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/France.gif",
+                "subText": "1900, Lasker"
+            }
+        },
+        {
+            "name": "Cambridge Springs International Chess Congress",
+            "pgnUrl": "https://goatevents.github.io/pgn/Cambridge1904.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/usa.webp",
+                "subText": "1904, Marshall"
+            }
+        },
+        {
+            "name": "Carlsbad chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Carlsbad1907.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Czech_Republic.png",
+                "subText": "1907, Rubinstein"
+            }
+        },
+        {
+            "name": "DSB Congress, Hamburg",
+            "pgnUrl": "https://goatevents.github.io/pgn/Hamburg1910.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Germany.png",
+                "subText": "1910, Schlechter"
+            }
+        },
+        {
+            "name": "San Sebastián chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/SanSebastian1911.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Spain.png",
+                "subText": "1911, Capablanca"
+            }
+        },
+        {
+            "name": "Petersburg chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/StPetersburg1914.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Russia.png",
+                "subText": "1914, Lasker"
+            }
+        },
+        {
+            "name": "DSB Congress, Mannheim",
+            "pgnUrl": "https://goatevents.github.io/pgn/Mannheim1914.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Germany.pgn",
+                "subText": "1914, Alekhine"
+            }
+        },
+        {
+            "name": "",
+            "pgnUrl": "https://goatevents.github.io/pgn/NewYork1924.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/usa.webp",
+                "subText": "1924, Lasker"
+            }
+        },
+        {
+            "name": "New York chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/NewYork1927.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/usa.webp",
+                "subText": "1927, Capablanca"
+            }
+        },
+        {
+            "name": "Carlsbad chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Karlsbad1929.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Czech_Republic.png",
+                "subText": "1929, Nimzowitsch"
+            }
+        },
+        {
+            "name": "",
+            "pgnUrl": "https://goatevents.github.io/pgn/NewYork1931.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/usa.webp",
+                "subText": "1931, Capablanca"
+            }
+        },
+        {
+            "name": "New York chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/MardelPlata1942.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/usa.webp",
+                "subText": "1942, Najdorf"
+            }
+        },
+        {
+            "name": "Groningen chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Groningen1946.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Netherlands.png",
+                "subText": "1946, Botvinnik"
+            }
+        },
+        {
+            "name": "Capablanca Memorial, Havana",
+            "pgnUrl": "https://goatevents.github.io/pgn/Havana1962.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Cuba.png",
+                "subText": "1962, Najdorf"
+            }
+        },
+        {
+            "name": "Monte Carlo chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/MonteCarlo1967.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Monaco.png",
+                "subText": "1967, Fischer"
+            }
+        },
+        {
+            "name": "Hoogovens tournament, Wijk aan Zee",
+            "pgnUrl": "https://goatevents.github.io/pgn/WijkaanZee1968.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Netherlands.png",
+                "subText": "1968, Korchnoi"
+            }
+        },
+        {
+            "name": "Tilburg chess tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Tilburg1977.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Netherlands",
+                "subText": "1977, Karpov"
+            }
+        },
+        {
+            "name": "Linares International Chess Tournament",
+            "pgnUrl": "https://goatevents.github.io/pgn/Linares1981.pgn",
+            "profile":{
+                "imageUrl": "https://goatevents.github.io/images/Spain.png",
+                "subText": "1981, Christiansen, Karpov"
             }
         }
     ]
